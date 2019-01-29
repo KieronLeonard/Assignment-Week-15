@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  Assignment Week 15.cpp
+c:\users\leonardt\source\repos\assignment week 15\assignment week 15\assignment week 15.cpp(32): warning C4129: 'l': unrecognized character escape sequence
+c:\users\leonardt\source\repos\assignment week 15\assignment week 15\assignment week 15.cpp(32): warning C4129: 'D': unrecognized character escape sequence
+c:\users\leonardt\source\repos\assignment week 15\assignment week 15\assignment week 15.cpp(32): warning C4129: 'p': unrecognized character escape sequence
+c:\users\leonardt\source\repos\assignment week 15\assignment week 15\assignment week 15.cpp(50): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+c:\users\leonardt\source\repos\assignment week 15\assignment week 15\assignment week 15.cpp(50): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\leonardt\source\repos\assignment week 15\assignment week 15\assignment week 15.cpp(50): note: placeholders and their parameters expect 3 variadic arguments, but 1 were provided
+  c:\users\leonardt\source\repos\assignment week 15\assignment week 15\assignment week 15.cpp(50): note: the missing variadic argument 2 is required by format string '%d'
+  Assignment Week 15.vcxproj -> C:\Users\leonardt\source\repos\Assignment Week 15\Debug\Assignment Week 15.exe
